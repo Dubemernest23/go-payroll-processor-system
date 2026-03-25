@@ -76,5 +76,3 @@ pnpm install && pnpm dev
 > Requires GCC for go-sqlite3 CGO compilation
 
 ---
-
-Built by [Your Name](https://github.com/yourusername)
